@@ -55,6 +55,7 @@ html,body,h1,h2,h3,h4 {font-family:"Muli", sans-serif}
 .w3-blue-hover-text-theme:hover {color:#7ba2cc !important}
 .w3-blue-hover-border-theme:hover {border-color:#7ba2cc !important}
 
+.w3-blue-hover-theme-d5:hover {color:#fff !important; background-color:#2e5076 !important}
 
 /* top navigation */
 @media (max-width: 600px) {
@@ -67,12 +68,7 @@ html,body,h1,h2,h3,h4 {font-family:"Muli", sans-serif}
     max-width: 100%;
     position: relative;
 }
-}
 
-.w3-button:hover {
-	color:#fff !important; 
-	background-color:#7ba2cc !important
-}
 
 /* The Modal (background) */
 .modal {
