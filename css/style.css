@@ -68,3 +68,8 @@ html,body,h1,h2,h3,h4 {font-family:"Muli", sans-serif}
     position: relative;
 }
 }
+
+.w3-button:hover {
+	color:#fff !important; 
+	background-color:#7ba2cc !important
+}
